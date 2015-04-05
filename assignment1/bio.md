@@ -28,3 +28,19 @@ I dabbled in a little bit of shell scripting over the years for system
 administration purposes and did some light modifications to perl scripts
 I had inherited, but my next real experience with programming didn't come until
 I started CS161 at OSU in the fall of 2014.
+
+My favorite assignment in the OSU CS program so far has been the first big
+assignment in CS162, which I took Winter 2015.  That assignment was to
+implement Conway's Game of Life.  This theme was particularly interesting to
+me because a fictional version of a much more advanced cellular automaton is
+a big feature in one of my favorite science fiction books, "Permutation City"
+by Greg Egan. I highly recommend it as a good read. Prompted by the book, I had
+already done a little bit of research into these topics and some of the theory
+behind cellular automata, including Stephan Wolfram's research.  I'm not sure,
+but based on the class discussions in Canvas, it seems that I made some choices
+for program design that may have been unique in the class.  I am not aware of
+anybody else, for instance, that used the wrap-around "toroidal" grid geometry.
+After reading about that design, it just seemed to me it would be simpler to
+implement than tracking object progress beyond the display.  Some simple mode
+calculations made it easy to figure out coordinates for adjoining cells, even
+when they were way on the other side of the screen.
