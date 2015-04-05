@@ -56,3 +56,10 @@ After reading about that design, it just seemed to me it would be simpler to
 implement than tracking object progress beyond the display.  Some simple mode
 calculations made it easy to figure out coordinates for adjoining cells, even
 when they were way on the other side of the screen.
+
+#Change in alternate-bio
+For the assignment step 14, this change is being made to the next to last
+commit.  Since it's an alternate biography, I'll make up some alternate
+biographical non-fact that might exist in an alternate universe.  My secret
+super-power is the ability to teleport any place in the universe just by
+intending it.
