@@ -56,3 +56,21 @@ After reading about that design, it just seemed to me it would be simpler to
 implement than tracking object progress beyond the display.  Some simple mode
 calculations made it easy to figure out coordinates for adjoining cells, even
 when they were way on the other side of the screen.
+
+#Adding some more content for assignment step 12
+I will use this section to note a little bit about how I intend to use a degree
+in computer science and the knowledge from this class. I've alluded to my
+career involving information/cyber-security.  Currently, I'm in a position of
+testing application security.  A lot of that testing involves just using some
+scanning tools to look for vulnerabilities.  But soon we will be implementing
+static testing tools that I want to be able to use most effectively. I envision
+leveraging knowledge and qualifications from this CS program to move toward
+more of an analyst role on my current team.  I also felt that my earlier work 
+with platform and network security, governance and risk management would be
+more rounded out with more knowledge of software securityand development
+practices.
+
+I will be attending a SANS Institute course on web application security very
+soon and I'm hoping that this current course will give me the background to
+make sense of the content in the SANS course and be best able to apply it in my
+job later.
