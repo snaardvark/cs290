@@ -1,0 +1,7 @@
+tbody tr:nth-child(odd) { background: Chartreuse;}
+tbody tr:nth-child(even) {background: cyan;}
+
+tbody label { font-style: italic; font-weight: normal}
+
+tbody td:nth-child(2) { color: red; }
+tbody td:nth-child(4) { color: blue; }
